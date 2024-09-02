@@ -103,6 +103,7 @@ _C_
 #
 
   **School Safety Simulation**
+
 _C#, Unity_
 
 -Developed a Conway's Game of Life simulation in Unity, implementing the rules of cellular automata where cells evolve based on their neighbors' states.
