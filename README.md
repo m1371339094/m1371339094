@@ -1,5 +1,5 @@
 # Hi there! I'm Kevin 
-I am currently an undergraduate Computer Science student at the University of Buffalo. I had work with School Safety Simulation an undergraduate Research Assistant using Unity that cooperates with local Buffalo police to make data for the school become a better place.
+I am currently an undergraduate Computer Science student at the University at Buffalo. School Safety Simulation, Undergraduate Research Assistant using Unity that coorperate with local buffalo police to make data for the school become a better place.
 ___
 #### Programming Languages
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -88,12 +88,26 @@ ___
 _C_
 - Created a semaphore using POSIX mutexes and condition variables, and used it to implement a FIFO producer-consumer queue data structure for passing data between threads. 
 #
-**Game of Life**
+
+</details>
+<details>
+  <summary>Simulation experiences</summary>
+  <br/>
+  **Game of Life**
 _C_
 
 - Implemented Conway's Game of Life in C, utilizing a 2D array to represent the grid of cells and applying the rules of cellular automata.
 - Developed efficient algorithms for updating the grid state based on the neighboring cells, ensuring accurate and fast simulation of each generation.
 - Optimized memory usage and performance to handle large grid sizes and extensive iterations.
+
+#
+_C#, Unity_
+
+-Developed a Conway's Game of Life simulation in Unity, implementing the rules of cellular automata where cells evolve based on their neighbors' states.
+-Utilized Unity's scripting capabilities to handle the grid-based environment and the dynamic updating of cell states.
+-Optimized performance by efficiently managing grid updates and handling large numbers of cells simultaneously.
+
+#
 
 </details>
 
@@ -119,18 +133,3 @@ ___
 ╰┈➤  Computer Vision
 #
 
-
-<!--
-**m1371339094/m1371339094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
