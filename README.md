@@ -1,5 +1,5 @@
 # Hi there! I'm Kevin 
-I am currently an undergraduate Computer Science student at the University at Buffalo. School Safety Simulation, Undergraduate Research Assistant using Unity that coorperate with local buffalo police to make data for the school become a better place.
+I am currently an undergraduate Computer Science student at the University at Buffalo. I had done School Safety Simulation, Undergraduate Research Assistant using Unity that coorperate with local buffalo police to make data for the school become a better place.
 ___
 #### Programming Languages
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
