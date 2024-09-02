@@ -29,7 +29,6 @@ ___
 
 #
 #### Tools
-<img align="left" alt="Github" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" />
 <img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
 <img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -93,14 +92,17 @@ _C_
 <details>
   <summary>Simulation experiences</summary>
   <br/>
+  
   **Game of Life**
+
 _C_
 
 - Implemented Conway's Game of Life in C, utilizing a 2D array to represent the grid of cells and applying the rules of cellular automata.
 - Developed efficient algorithms for updating the grid state based on the neighboring cells, ensuring accurate and fast simulation of each generation.
 - Optimized memory usage and performance to handle large grid sizes and extensive iterations.
-
 #
+
+  **School Safety Simulation**
 _C#, Unity_
 
 -Developed a Conway's Game of Life simulation in Unity, implementing the rules of cellular automata where cells evolve based on their neighbors' states.
