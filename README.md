@@ -45,7 +45,6 @@ ___
 #
 #### Operating Systems
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="MacOS" width="40px" style="padding-right:10px;" src="https://www.freeiconspng.com/thumbs/mac-icon/apple-mac-icon-5.png" />
 <img align="left" alt="Unix" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
 <br/>
 
